@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Astrologer",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/3049/3049623.png"
+    },
+    {
+      "id": 2,
+      "name": "Assistant",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/1142/1142692.png"
+    },
+    {
+      "id": 3,
+      "name": "Makeup",
+      "imageUrl": "https://cdn-icons-png.flaticon.com/512/4515/4515759.png"
+    },
+    {
+      "id": 4,
+      "name": "Mehndi",
+      "imageUrl": "https://cdn-icons-png.freepik.com/512/10366/10366437.png"
+    },
+    {
+      "id": 5,
+      "name": "Photography",
+      "imageUrl": "https://cdn-icons-png.freepik.com/512/1371/1371282.png"
+    }
+  ]
+  
